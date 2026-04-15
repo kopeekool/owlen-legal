@@ -60,4 +60,4 @@ We are not responsible for:
 
 If you have any questions, suggestions, or issues:
 
-👉 Please join the official **Recon Support Server** for assistance.
+👉 Please join the official **Recon [Support Server](https://discord.gg/PqwBbe8wEw)** for assistance.
