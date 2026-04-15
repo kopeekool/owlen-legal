@@ -84,4 +84,4 @@ We may update this Privacy Policy at any time without prior notice. Continued us
 
 If you have any questions or concerns regarding this Privacy Policy:
 
-👉 Please join the official **Recon Support Server** for assistance.
+👉 Please join the official **Recon [Support Server](https://discord.gg/PqwBbe8wEw)** for assistance.
