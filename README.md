@@ -1,2 +1,2 @@
-# Recon-TOS
-TOS &amp; PP for Recon discord bot
+# Recon Discord Bot
+## Recon Terms of Service and Privacy Policy
