@@ -2,11 +2,11 @@
 
 **Last Updated: April 15, 2026**
 
-> “We reserve the right to update or modify these Terms at any time without prior notice. By continuing to use Recon, you agree to the latest version of these Terms. We recommend reviewing them regularly.”
+> “We reserve the right to update or modify these Terms at any time without prior notice. By continuing to use Owlen, you agree to the latest version of these Terms. We recommend reviewing them regularly.”
 
 ### 1. Acceptance of Terms
 
-By inviting or using **Recon**, you agree to be bound by these Terms of Service. If you do not agree, you should not use the bot.
+By inviting or using **Owlen**, you agree to be bound by these Terms of Service. If you do not agree, you should not use the bot.
 
 ---
 
@@ -14,19 +14,19 @@ By inviting or using **Recon**, you agree to be bound by these Terms of Service.
 
 You agree that you will NOT:
 
-* Copy, modify, or distribute any part of Recon
+* Copy, modify, or distribute any part of Owlen
 * Attempt to reverse-engineer, decompile, or extract source code
 * Create derivative versions of the bot
 * Use the bot for illegal, abusive, or malicious activities
 * Exploit bugs, vulnerabilities, or unintended features
 
-All intellectual property rights, including code, branding, and design, belong to the owner of **Recon**.
+All intellectual property rights, including code, branding, and design, belong to the owner of **Owlen**.
 
 ---
 
 ### 3. Service Changes
 
-We strive to keep Recon reliable and useful, but:
+We strive to keep Owlen reliable and useful, but:
 
 * Features may be added, removed, or modified at any time
 * The bot may experience downtime or interruptions
@@ -38,7 +38,7 @@ We strive to keep Recon reliable and useful, but:
 
 We reserve the right to:
 
-* Suspend or terminate access to Recon at any time
+* Suspend or terminate access to Owlen at any time
 * Remove the bot from any server without prior notice
 * Restrict usage if these Terms are violated
 
@@ -46,7 +46,7 @@ We reserve the right to:
 
 ### 5. Disclaimer
 
-Recon is provided **“as is”** without any guarantees.
+Owlen is provided **“as is”** without any guarantees.
 We are not responsible for:
 
 * Data loss
@@ -60,4 +60,4 @@ We are not responsible for:
 
 If you have any questions, suggestions, or issues:
 
-👉 Please join the official **Recon [Support Server](https://dsc.gg/recons)** for assistance.
+👉 Please join the official **Owlen [Support Server](https://dsc.gg/owlen)** for assistance.
